@@ -33,7 +33,7 @@ This mobile payment application demonstrates enterprise-grade development practi
 
 **Live Demo:** `http://localhost:8081` (after setup)
 
-**Video Walkthrough:** [5-minute demo covering architecture, features, and technical decisions]
+**Video Walkthrough:** [[5-minute demo covering architecture, features, and technical decisions]](https://www.loom.com/share/9dc9f1b8e1da4ce9857f599b9b5fbe7f?sid=c352e143-65ed-4f57-a730-4bf393bf03c9)
 
 ## ✨ Key Features
 
